@@ -1,0 +1,16 @@
+header {
+    background-color: teal;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.centered {
+    text-align: center
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
